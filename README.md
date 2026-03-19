@@ -1,58 +1,59 @@
+<div align="center">
 
-# Hola 👋, soy Sergio
+# Sergio Campos
 
-**Desarrollador Frontend Jr** — enfocado en construir proyectos reales
+**Desarrollador Frontend Jr** — React · TypeScript · Tailwind
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](TU_LINK)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=flat-square&logo=vercel&logoColor=white)](TU_LINK)
-![Profile views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=3178C6&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-campos-6a9a5b37a/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camposgarciasergio249@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SergioF1Gts)
+![Profile views](https://komarev.com/ghpvc/?username=SergioF1Gts&color=3178C6&style=flat-square&label=visitas)
 
 </div>
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mi
 
-- 📡 Actualmente aprendiendo **React + TypeScript**
-- ⚡ Me gusta crear proyectos que resuelvan problemas reales
-- 🎯 Meta: conseguir mi primer trabajo como desarrollador frontend
-- 🌎 Colombia 🇨🇴 | Disponible para trabajo remoto
+- Actualmente aprendiendo **React + TypeScript**
+- Me gusta construir proyectos reales que resuelvan problemas
+- Meta: conseguir mi primer trabajo como desarrollador frontend
+- Colombia — disponible para trabajo remoto
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 Lenguajes más usados
+## Lenguajes mas usados
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioF1Gts&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" />
 </div>
 
 ---
 
-## 📂 Proyectos destacados
+## Proyectos destacados
 
-| Proyecto | Stack | Link |
+| Proyecto | Descripcion | Stack |
 |---|---|---|
-| 🌐 Portfolio personal | React · Tailwind · Vite | [Ver →](TU_LINK) |
-| 🚀 Proyecto X | TypeScript · React | [Ver →](TU_LINK) |
+| [minecraft-bot](https://github.com/SergioF1Gts/minecraft-bot) | Bot automatizado para Minecraft | JavaScript · Node.js |
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-¿Tienes un proyecto en mente o una oportunidad? Escríbeme 👇
+¿Tienes un proyecto o una oportunidad? Escribeme.
 
-[![LinkedIn](https://img.shields.io/badge/Hablemos_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK)
+[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-campos-6a9a5b37a/)
+[![Email](https://img.shields.io/badge/Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camposgarciasergio249@gmail.com)
